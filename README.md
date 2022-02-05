@@ -13,7 +13,7 @@ $ python --version
 
 Run the following:
 ```shell script
-git clone https://github.com/ElyxusPH/Line-Art-Generator.git
+git clone https://github.com/ElyxusPH/Pixel-Art-Generator.git
 cd Line-Art-Generator
 pip install -r requirements.txt
 python3 main.py
