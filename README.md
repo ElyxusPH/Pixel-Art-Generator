@@ -1,4 +1,4 @@
-> **Generate Unlimited Line Arts to sell as NFT**
+> **Project Example for Generating Pixel Art**
 
 ## Compatibility
 
